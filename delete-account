@@ -1,0 +1,27 @@
+# Delete Your Messenger Incognito Account
+
+If you wish to delete your account and all associated data from the *Messenger Incognito* app, please follow the steps below:
+
+## 🔐 Anonymous Users (Default login)
+As an anonymous user, you can delete all your data by sending us your **user ID (UID)**. To find it:
+
+1. Open the Messenger Incognito app.
+2. Copy your User ID shown on the home screen (e.g., `UID: j29Xy1p...`)
+3. Send it to us at **appsprivacylab@gmail.com** with the subject line "Account Deletion Request".
+
+We will delete:
+- Your messages stored in Firestore
+- Your sent message history
+- Your user document in the database
+
+> ⏳ Your data will be deleted within 7 days of your request.
+
+## 👤 Identified Users (Email login, if available)
+If you created an account using email:
+- You can also email **appsprivacylab@gmail.com**
+- Or ask to delete directly through the app (if available)
+
+---
+
+
+
